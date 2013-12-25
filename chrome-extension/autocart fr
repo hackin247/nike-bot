@@ -1,4 +1,4 @@
-var size = "10.5";
+var size = "13";
 var amount = 1;
 
 function addToCart() {
